@@ -51,15 +51,15 @@ Studente di Economia con una forte passione per la **finanza quantitativa** e il
 
 ## 🚀 Progetti in Evidenza
 
-### 🏥 [Philips HealthTech — Connected Care & Clinical Analytics in R](https://github.com/RealHarounJ/philips-healthtech-clinical-analytics-r)
-> Clinical Data Science, Biosignal Telemetry & Health Technology Assessment (HTA) in R — Progetto di Tesi per Philips Connected Care
+### 🏥 [Clinical Telemetry, Early Warning & Health Economics in R](https://github.com/RealHarounJ/philips-healthtech-clinical-analytics-r)
+> Progetto di ricerca su monitoraggio continuo in corsia, elaborazione segnali biosensori e valutazione economico-sanitaria (HTA) in R.
 
-- **ICU Deterioration Prediction (AUC = 0.902):** Modellazione multivariabile longitudinale e survival analysis (Kaplan-Meier) per la prevenzione dello shock settico.
-- **Decision Curve Analysis (DCA):** Quantificazione del *Net Benefit* clinico per abbattere i falsi allarmi e l'alarm fatigue nei reparti ospedalieri.
-- **Wearable DSP & HRV:** Filtraggio digitale zero-phase di flussi PPG ad alta frequenza e analisi spettrale FFT della Heart Rate Variability (bilancio autonomico LF/HF).
-- **Markov Cost-Effectiveness Model:** 1.000 iterazioni Monte Carlo (PSA) dimostrano la dominanza economica (risparmio di 1,88 giorni di ICU e €4.158 a paziente).
+- **Previsione Deterioramento Clinico (AUC = 0.902):** Analisi predittiva e survival analysis (Kaplan-Meier) per anticipare crisi cliniche e shock settico rispetto al benchmark NEWS2.
+- **Decision Curve Analysis (DCA):** Valutazione statistica per prevenire l'alarm fatigue (abbattimento dei falsi allarmi nei reparti).
+- **Elaborazione Segnali Biosensori:** Filtraggio digitale di segnali PPG a 100 Hz e analisi spettrale FFT per il calcolo della variabilità cardiaca (HRV).
+- **Modello Economico di Markov (HTA):** 1.000 iterazioni Monte Carlo che dimostrano come il monitoraggio continuo riduca di 1,88 giorni la degenza in terapia intensiva, risparmiando oltre €4.000 a paziente.
 
-`R (tidyverse, survival)` `Clinical Biostatistics` `Digital Signal Processing (DSP)` `HEOR` `HealthTech`
+`R (tidyverse, survival)` `Biostatistica Clinica` `Digital Signal Processing` `Health Economics (HEOR)` `Connected Care`
 
 ---
 
