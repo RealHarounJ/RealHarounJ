@@ -2,140 +2,146 @@
 
 # Haroun Jaafar
 
-### Quantitative Finance & Algorithmic Trading
+### Digital Economics & Quantitative Analytics | Software Engineering Background
 
-*BSc Economics · Università Politecnica delle Marche (UNIVPM)*
+*BSc in Digital Economics and Business (100% English Taught) · Università Politecnica delle Marche (UNIVPM)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harounjaafar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroun.jaafar@studenti.univpm.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haroun-jaafar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harounjaafar3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealHarounJ)
 
 </div>
 
 ---
 
-## 👋 Chi sono
+## 👨‍💻 About Me
 
-Studente di Economia con una forte passione per la **finanza quantitativa** e il **trading algoritmico sistematico**. Studio e implemento strategie basate su metodi matematici avanzati — non mi fermo alla teoria, costruisco sistemi che girano in produzione.
+Undergraduate in **Digital Economics and Business** at Università Politecnica delle Marche (curriculum delivered entirely in English) with a solid software engineering and IT foundation. I specialize in bridging quantitative financial economics, corporate finance, and modern data architectures.
 
-- 🎓 **BSc Economics** @ UNIVPM Ancona (in corso)
-- 📈 Appassionato di **Systematic Trading**, **Machine Learning finanziario** e **Risk Management**
-- 🤖 Costruisco bot di trading autonomi con **MetaTrader 5** e **Python**
-- 📚 Studio attivamente i lavori di *Marcos López de Prado*, *Robert Carver*, *Nassim Taleb*
-- 🌍 Cerco uno **stage internazionale** in finanza quantitativa / trading desk (300h, da Giugno 2026)
+- 🎓 **BSc Digital Economics & Business** @ UNIVPM Ancona (Expected 2027 · Instruction: 100% English)
+- 💾 **IT & Telecommunications Diploma** @ ITI Enrico Mattei (Software Engineering, Relational DBs & Networking)
+- ⚙️ **Data & Quant Engineering:** Developing automated ETL data pipelines, PostgreSQL warehouses, and Apache Airflow workflows
+- 📊 **Quantitative Modeling:** Portfolio optimization (Markowitz), Monte Carlo simulations (GBM), and econometric analysis in R & Python
+- 💼 **Former Software & IT Engineering Intern** @ Casali Computers (Enterprise ERP modules & Apache Tomcat deployment)
+- 🌍 **International Traineeship:** Seeking Erasmus+ / international quant & data analytics traineeship opportunities for 2026/2027
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack & Tooling
 
-**Linguaggi**
+<div align="left">
 
+**Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Librerie Finanziarie e Scientifiche**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![MetaTrader5](https://img.shields.io/badge/MetaTrader5-1B4F72?style=flat-square&logo=metatrader&logoColor=white)
-
-**Database & Tools**
-
+**Data Engineering & DevOps**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Quantitative, Scientific & Financial Modeling**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1A1A1A?style=flat-square&logo=r&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-1B4F72?style=flat-square&logo=metatrader&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Progetti in Evidenza
+## 🚀 Featured Engineering & Quantitative Projects
+
+### ⚡ [Quant Data Pipeline & Portfolio Optimization Engine](https://github.com/RealHarounJ/quant-data-pipeline)
+> **Production-grade automated quantitative ETL, risk forecasting, and portfolio allocation platform**
+
+- **Automated Data Ingestion:** Architected streaming pipelines using `yfinance` to ingest market data into PostgreSQL via idempotent `UPSERT` (`ON CONFLICT`) operations, ensuring data integrity with zero duplicates.
+- **Quantitative Optimization & Risk:** Solved Markowitz Mean-Variance portfolio optimization via `scipy.optimize` to calculate Maximum Sharpe Ratio weights; developed a 10,000-path Monte Carlo Geometric Brownian Motion (GBM) engine for 95% Value-at-Risk (VaR) and drawdown forecasting.
+- **DevOps & Workflow Orchestration:** Fully containerized with Docker Compose; scheduled sequential execution (`DB Init → Ingest → Optimize → Simulate → Report`) via Apache Airflow DAGs.
+
+`Python` `SQL` `PostgreSQL` `Apache Airflow` `Docker Compose` `Quantitative Finance` `Risk Management`
+
+---
 
 ### 🏥 [Clinical Telemetry, Early Warning & Health Economics in R](https://github.com/RealHarounJ/philips-healthtech-clinical-analytics-r)
-> Progetto di ricerca su monitoraggio continuo in corsia, elaborazione segnali biosensori e valutazione economico-sanitaria (HTA) in R.
+> **Clinical biosignal telemetry, predictive deterioration modeling, and Health Technology Assessment (HTA) in R**
 
-- **Previsione Deterioramento Clinico (AUC = 0.902):** Analisi predittiva e survival analysis (Kaplan-Meier) per anticipare crisi cliniche e shock settico rispetto al benchmark NEWS2.
-- **Decision Curve Analysis (DCA):** Valutazione statistica per prevenire l'alarm fatigue (abbattimento dei falsi allarmi nei reparti).
-- **Elaborazione Segnali Biosensori:** Filtraggio digitale di segnali PPG a 100 Hz e analisi spettrale FFT per il calcolo della variabilità cardiaca (HRV).
-- **Modello Economico di Markov (HTA):** 1.000 iterazioni Monte Carlo che dimostrano come il monitoraggio continuo riduca di 1,88 giorni la degenza in terapia intensiva, risparmiando oltre €4.000 a paziente.
+- **Predictive Clinical Deterioration (AUC = 0.902):** Implemented predictive analytics and Kaplan-Meier survival models to anticipate clinical crises and septic shock prior to standard NEWS2 benchmarks.
+- **Decision Curve Analysis (DCA):** Statistical evaluation to mitigate alarm fatigue across hospital departments.
+- **Biosignal DSP:** Digital filtering of 100 Hz PPG signals and spectral FFT analysis for Heart Rate Variability (HRV) estimation.
+- **Markov Decision Model (HTA):** 1,000 Monte Carlo iterations demonstrating continuous monitoring reduces ICU stays by 1.88 days, yielding >€4,000 cost savings per patient.
 
-`R (tidyverse, survival)` `Biostatistica Clinica` `Digital Signal Processing` `Health Economics (HEOR)` `Connected Care`
-
----
-
-### 🏆 [AFML Prop Trader](https://github.com/RealHarounJ/afml-prop-trader)
-> Bot di trading algoritmico autonomo per la FTMO Challenge su **XAUUSD (Oro)**
-
-Integra 6 metodologie quantitative avanzate dalla letteratura scientifica:
-- **Fractional Differentiation** (López de Prado, AFML Cap. 5) — serie stazionarie con memoria
-- **Lempel-Ziv Entropy** (AFML Cap. 18) — regime classifier (Trend vs Mean Reversion)
-- **Multi-Horizon Trend Score** (Robert Carver) — EMA crossover 8/32, 16/64, 32/128
-- **Triple-Barrier Labeling** — TP 4×ATR / SL 2.5×ATR / Time Barrier 4h
-- **Winsorization** (Taleb) — protezione da Black Swan events
-- **Microstructural Spread Filter** — blocco ordini quando spread > 20% ATR
-
-`Python` `MetaTrader5` `NumPy` `Algorithmic Trading` `Risk Management`
+`R (tidyverse, survival)` `Biostatistics` `Digital Signal Processing` `Health Economics (HEOR)` `Connected Care`
 
 ---
 
-### 📊 [Portfolio Optimizer](https://github.com/RealHarounJ/portfolio-optimizer)
-> Ottimizzazione di portafoglio multi-asset con framework Markowitz + CAPM
+### 🏆 [AFML Quantitative Trading Engine](https://github.com/RealHarounJ/afml-prop-trader)
+> **Autonomous algorithmic trading framework incorporating Marcos López de Prado's *Advances in Financial Machine Learning***
 
-- Frontiera efficiente con minimizzazione della varianza e massimizzazione dello Sharpe Ratio
-- Calcolo CAPM, WACC, IRR e NPV su asset reali
-- Simulazione Monte Carlo per proiezione PnL a lungo termine
-- Rebalancing automatico mensile con vincoli di budget
+- **Fractional Differentiation:** Achieved stationary time-series while preserving maximum memory (AFML Ch. 5).
+- **Lempel-Ziv Entropy:** Non-parametric market regime classification (Trend vs. Mean Reversion).
+- **Multi-Horizon Trend Scoring & Risk Controls:** Triple-Barrier labeling (TP 4×ATR / SL 2.5×ATR), Winsorization against tail-risk events, and microstructural spread volatility filters.
 
-`Python` `NumPy` `SciPy` `Matplotlib` `CAPM` `Markowitz`
-
----
-
-### 🗄️ [Financial Database Design](https://github.com/RealHarounJ/financial-db-design)
-> Progettazione e implementazione di database relazionali per sistemi finanziari
-
-- Schema ER per piattaforma di streaming musicale, charter nautico, e-commerce
-- Query SQL avanzate: Window Functions, CTE, Stored Procedures
-- Ottimizzazione degli indici e analisi delle query plan
-
-`SQL` `PostgreSQL` `Database Design` `ER Modeling`
+`Python` `MetaTrader 5` `NumPy` `SciPy` `Algorithmic Trading` `Quantitative Finance`
 
 ---
 
-## 📖 Cosa sto Studiando
+### 🗄️ [Financial Relational Database & Systems Architecture](https://github.com/RealHarounJ/financial-db-design)
+> **Relational database design, financial entity modeling, and performance-tuned SQL architectures**
+
+- Engineered normalized ER schemas for financial transactions, billing systems, and enterprise accounting records.
+- Authoring high-performance SQL: Window Functions, Common Table Expressions (CTEs), indexing strategies, and query execution plan optimization.
+
+`SQL` `PostgreSQL` `Database Design` `Relational Modeling` `Data Warehousing`
+
+---
+
+## 📖 Current Academic & Research Curriculum
 
 ```
-📚 Attualmente:
-   ├── Corporate Finance (NPV, Capital Structure, M&A) — UNIVPM
-   ├── Advances in Financial Machine Learning — Marcos López de Prado
-   ├── Systematic Trading — Robert Carver
-   └── Database Systems (NoSQL, Data Warehousing)
+📚 Currently Focusing On:
+   ├── Corporate Finance & Financial Economics (UNIVPM)
+   ├── Applied Econometrics & Statistical Computing (R / Python)
+   ├── Business Information Systems & Data Mining (SQL, Data Warehouses)
+   └── Planning & Control Systems (Management Accounting & KPIs)
 
-🔜 Prossimamente:
-   ├── Options Pricing (Black-Scholes, Greeks, Monte Carlo)
-   ├── Machine Learning for Finance (Sklearn, features engineering)
-   ├── Fixed Income & Derivatives
-   └── CFA Level 1 (target: Dicembre 2026)
+🔜 Advanced Roadmap:
+   ├── Options Pricing Models (Black-Scholes, Stochastic Volatility)
+   ├── Multi-Factor Risk Pricing (Fama-French 5-Factor Model)
+   └── CFA Level 1 Preparation
 ```
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Metrics
 
 <div align="center">
 
-![Haroun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealHarounJ&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![Haroun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealHarounJ&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/RealHarounJ)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealHarounJ&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealHarounJ&layout=compact&theme=dark&hide_border=true)](https://github.com/RealHarounJ)
 
 </div>
 
 ---
 
-## 📫 Contatti
+## 📫 Connect with Me
 
-- 📧 Email: `haroun.jaafar@studenti.univpm.it`
-- 💼 LinkedIn: [linkedin.com/in/harounjaafar](https://linkedin.com/in/harounjaafar)
-- 🌍 Disponibile per **stage estero** da Giugno 2026 (300h min.)
+- 💼 **LinkedIn:** [linkedin.com/in/haroun-jaafar](https://linkedin.com/in/haroun-jaafar)
+- 📧 **Personal Email:** [harounjaafar3@gmail.com](mailto:harounjaafar3@gmail.com)
+- 🎓 **University Email:** [haroun.jaafar@studenti.univpm.it](mailto:haroun.jaafar@studenti.univpm.it)
+- 🌍 **Availability:** Open for international traineeships & quantitative roles (Erasmus+ Traineeship EU4EU 2026/2027)
 
 ---
 
