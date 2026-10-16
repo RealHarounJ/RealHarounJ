@@ -107,6 +107,15 @@ Undergraduate in **Digital Economics and Business** at Università Politecnica d
 
 ---
 
+## 💼 Commercial & Freelance Analytics Solutions
+> *Bridging academic financial rigor and software engineering to generate direct, measurable business ROI.*
+
+- **📊 Automated Financial & Working Capital Dashboards:** Designing end-to-end data pipelines and interactive reporting (R / Python) that eliminate manual spreadsheet reconciliations, track Operating Working Capital (OWC), and calculate real-time net margins.
+- **📈 Econometric & Predictive Inference:** Multiple linear regression, sales elasticity, and customer retention/churn analytics (RFM) to quantify revenue drivers with statistical rigor (hypothesis testing, confidence intervals).
+- **🗄️ Financial Data Normalization & ETL Pipelines:** Cleaning, standardizing, and restructuring multi-source transactional databases (PostgreSQL, ERP exports) for audit-ready managerial reporting.
+
+---
+
 ## 📖 Current Academic & Research Curriculum
 
 ```
@@ -141,7 +150,7 @@ Undergraduate in **Digital Economics and Business** at Università Politecnica d
 - 💼 **LinkedIn:** [linkedin.com/in/haroun-jaafar](https://linkedin.com/in/haroun-jaafar)
 - 📧 **Personal Email:** [harounjaafar3@gmail.com](mailto:harounjaafar3@gmail.com)
 - 🎓 **University Email:** [haroun.jaafar@studenti.univpm.it](mailto:haroun.jaafar@studenti.univpm.it)
-- 🌍 **Availability:** Open for international traineeships & quantitative roles (Erasmus+ Traineeship EU4EU 2026/2027)
+- 🌍 **Availability:** Open for High-Impact Freelance Analytics Projects & International Traineeships (Netherlands / EU 2026/2027)
 
 ---
 
